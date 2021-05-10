@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-TW"><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://blog.wells.tw/jekyll-demo/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.wells.tw/jekyll-demo/" rel="alternate" type="text/html" hreflang="zh-TW" /><updated>2021-05-10T19:55:24+08:00</updated><id>https://blog.wells.tw/jekyll-demo/feed.xml</id><title type="html">Chirpy</title><subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="https://blog.wells.tw/jekyll-demo/posts/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-05-10T11:10:08+08:00</published><updated>2021-05-10T11:10:08+08:00</updated><id>https://blog.wells.tw/jekyll-demo/posts/welcome-to-jekyll</id><content type="html" xml:base="https://blog.wells.tw/jekyll-demo/posts/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Git入門教學</title><link href="https://blog.wells.tw/jekyll-demo/posts/Git%E5%85%A5%E9%96%80%E6%95%99%E5%AD%B8/" rel="alternate" type="text/html" title="Git入門教學" /><published>2021-04-29T23:15:00+08:00</published><updated>2021-05-10T19:49:18+08:00</updated><id>https://blog.wells.tw/jekyll-demo/posts/Git%E5%85%A5%E9%96%80%E6%95%99%E5%AD%B8</id><content type="html" xml:base="https://blog.wells.tw/jekyll-demo/posts/Git%E5%85%A5%E9%96%80%E6%95%99%E5%AD%B8/">&lt;p&gt;我是wells，擔任過室內配線的國手，征服了電氣領域後，現在正跨大版圖到資訊界。&lt;/p&gt;
+
+&lt;h1 id=&quot;料理食材內文內容&quot;&gt;料理食材(內文內容)&lt;/h1&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Git簡介&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Git基本用法&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;誰可以安心食用適合誰讀&quot;&gt;誰可以安心食用(適合誰讀)&lt;/h1&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;會使用瀏覽器的人&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;有Github帳號的人(沒有請點&lt;a href=&quot;https://github.com/join&quot;&gt;這裡&lt;/a&gt;去辦)&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;不會懼怕小黑窗(Terminal)的人&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;服用完你會獲得什麼&quot;&gt;服用完你會獲得什麼&lt;/h1&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;會使用基本的Git指令&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;把你電腦上的專案推上Github&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;git簡介&quot;&gt;Git簡介&lt;/h1&gt;
+&lt;p&gt;試想在很久以前，你對資訊還不太熟悉，你是否會為了每次編輯而做一份備份的動作呢？這可能讓你的檔案變得跟下圖一樣：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/不用git的備份方式.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;一個月或更久後再回來看，通常就不知道每一個檔案的差別是什麼了，一個一個查閱時，卻又因為這些檔案都含有大量相同的內容，難以找出不同點，於是你只好花費寶貴的青春在做這種沒意義的事情上。&lt;/p&gt;
+
+&lt;p&gt;而現在你長大了，為了避免重複年少時的過錯，你想到了一個方法可以解決這樣子的困境，那就是創立一個版本集，每次變更時都會紀錄成一個版本存進版本集中，每一個版本只紀錄與上一版的差異，當需要特定版本的檔案時，只要依照版本集對檔案進行修改，你就可以得到特定版本的檔案了，而因為這樣做你可以達成：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;減少儲存空間，因為每一版不需要儲存整個檔案。&lt;/li&gt;
+  &lt;li&gt;容易辨識每一版本的差異，因為沒有重複的內容。&lt;/li&gt;
+  &lt;li&gt;與別人分工變容易，因為只需要把彼此不同版本加起來(merge)就好。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;這真是個天才的想法！但唯一的缺點大概就是要回到特地版本時，需要依照中間的版本紀錄對檔案做修改，假如有上百個版本，那將會是個災難。&lt;/p&gt;
+
+&lt;p&gt;不過沒關係，因為世界上有著和你相同想法的天才已經用程式幫你開發好這一套分散式版本控制系統了，這個名稱叫做”Git”。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;分散式是指每位專案參與者的個人電腦都可以擁有一份Git資料庫，在開發過程中都可以對自己的資料庫進行操作，等到開發到一個階段時再推上遠端的資料庫(例如Github上的資料庫)做同步的動作。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;git跟github的差別&quot;&gt;Git跟Github的差別&lt;/h3&gt;
+&lt;p&gt;現在我們已經知道Git是什麼了，那Github呢？&lt;/p&gt;
+
+&lt;p&gt;Git和Github大概就像是影片跟youtube的差別，後者就是儲存一大堆Git的網站，但除此之外也提供許多便利的功能，如Github Action、Github Page等等。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;git使用流程&quot;&gt;Git使用流程&lt;/h1&gt;
+&lt;p&gt;假設你今天已經有一份寫好的檔案，你希望上傳到Github上，讓身邊的人看看你爆肝完成的成品，那麼你該進行以下的動作：&lt;/p&gt;
+
+&lt;h3 id=&quot;安裝git&quot;&gt;安裝Git&lt;/h3&gt;
+&lt;p&gt;這部分請依照作業系統選擇。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gitbook.tw/chapters/environment/install-git-in-windows.html&quot;&gt;Windows&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gitbook.tw/chapters/environment/install-git-in-mac.html&quot;&gt;Mac OSX&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;在github上創建repository&quot;&gt;在Github上創建Repository&lt;/h3&gt;
+&lt;p&gt;如還沒有註冊Github帳戶，請&lt;a href=&quot;https://github.com/join&quot;&gt;點此&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;當登入後，在個人首頁的右上角按下+之後選擇New Repository&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/github新增repository.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;之後會看到這個畫面&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/github新增repository2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;填寫一些這個檔案的資料即可。
+需要特別介紹的是底下的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Initialize this repository with:&lt;/code&gt;，可以看到有三個選項，以下逐一介紹：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Add a README.md file&lt;/p&gt;
+
+    &lt;p&gt;README.md主要用於說明這個repository是在做什麼的，如果repository的根目錄上含有README.md的話，就會在Github的頁面底部呈現
+ &lt;img src=&quot;/assets/images/readme用途.png&quot; alt=&quot;&quot; /&gt;
+ 就像這樣。&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;README.md的編寫需要使用Markdown語法，如果不知道Markdown是什麼的話，請查閱&lt;a href=&quot;https://wcc723.github.io/development/2019/11/23/ten-mins-learn-markdown/&quot;&gt;此處&lt;/a&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Add .gitignore&lt;/p&gt;
+
+    &lt;p&gt;當專案中含有一些敏感資料或是不相關的檔案，如：secret_key，你不希望這些檔案被加入git中，這時你就可以把這些檔案的名稱寫在.gitignore中，這樣子在執行&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git add&lt;/code&gt;時，就不會把這些檔案加入Git資料庫裡了。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Choose a license&lt;/p&gt;
+
+    &lt;p&gt;這裡的License是關於專案的授權條款，最常見的是&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MIT License&lt;/code&gt;，代表被授權人有權利使用、複製、修改、合併、出版發行、散布、再授權和/或販售軟體及軟體的副本，及授予被供應人同等權利。&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;更多的License介紹可以查看&lt;a href=&quot;https://progressbar.tw/posts/61&quot;&gt;此處&lt;/a&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;以上三個選項，不勾也可以成功創建新的資料庫。&lt;/p&gt;
+
+&lt;h3 id=&quot;把本地的專案推到遠端節點&quot;&gt;把本地的專案推到遠端節點&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;在專案資料夾中開啟terminal&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Windows系統可以在專案資料夾中按下右鍵開啟&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git bash&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;Mac OSX開啟terminal後輸入&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;cd ~/Document/project&lt;/code&gt;
+        &lt;blockquote&gt;
+          &lt;p&gt;這裡的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;~/Document/project&lt;/code&gt;請換成你專案的路徑。&lt;/p&gt;
+        &lt;/blockquote&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git init&lt;/code&gt;&lt;/p&gt;
+
+    &lt;p&gt;於該資料夾中初始化git資料庫。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git add .&lt;/code&gt;&lt;/p&gt;
+
+    &lt;p&gt;把未被紀錄的文件加入緩存區，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git add&lt;/code&gt;後與&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.&lt;/code&gt;要有空白，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.&lt;/code&gt;的意思代表該目錄下所有文件，也可以換成其他檔案的名稱，例如&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git add index.html&lt;/code&gt;。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git config --global user.email &quot;yourmail@mail.com&quot; | git config --global user.name &quot;yourname&quot;&lt;/code&gt;&lt;/p&gt;
+
+    &lt;p&gt;此步驟是設定git進行commit的身份，如果你已經有安裝過git了，執行這行指令後，它顯示&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;error: 不能鎖定設定檔案&lt;/code&gt;，那八成是你已經設定過了。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git commit -m &quot;本次提交進資料庫的訊息ex.Add set user function...&quot;&lt;/code&gt;&lt;/p&gt;
+
+    &lt;p&gt;把緩存區的資料存入git資料庫中，如果沒有打&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-m&lt;/code&gt;會進入vim編輯器中，輸入&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;:q&lt;/code&gt;後按enter可以離開&lt;/p&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;關於vim的進一步操作可以查看&lt;a href=&quot;https://blog.techbridge.cc/2020/04/06/how-to-use-vim-as-an-editor-tutorial/&quot;&gt;此處&lt;/a&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git remote add origin [url]&lt;/code&gt;&lt;/p&gt;
+
+    &lt;p&gt;把遠端資料庫(github)的節點加入至本地資料庫，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;origin&lt;/code&gt;代表遠端節點的名稱，你可以換成任何名稱，例如:&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;github&lt;/code&gt;，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[url]&lt;/code&gt;為遠端資料庫的網址，例如你使用github，遠端資料庫的url就會像是&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://github.com/Kevin-1215/project1.git &lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git push -u origin master&lt;/code&gt;&lt;/p&gt;
+
+    &lt;p&gt;此段是第一次push時會使用到的指令，&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-u&lt;/code&gt;代表的是設定之後push的遠端節點(這邊指定origin)和節點分支(這邊指定master)，在第二次後只要使用&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git push&lt;/code&gt;就可以了。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;專案修改後重推&quot;&gt;專案修改後重推&lt;/h3&gt;
+&lt;p&gt;假如你推上遠端資料庫後發現檔案有誤，或是你要做一些修改，那麼你該怎麼做呢？&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git add .&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git commit -m &quot;修改的內容&quot;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;git push&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;第二次推上遠端資料庫只需要以上的指令就可以完成了。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;結語&quot;&gt;結語&lt;/h1&gt;
+&lt;p&gt;本篇只有介紹很基本的Git使用流程，未來如果還有機會再來介紹更細部的內容和Git的GUI該如何使用。&lt;/p&gt;</content><author><name></name></author><category term="Tutorial" /><category term="Git" /><summary type="html">我是wells，擔任過室內配線的國手，征服了電氣領域後，現在正跨大版圖到資訊界。</summary></entry></feed>
